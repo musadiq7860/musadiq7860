@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Muhammad Musaddaq Qaysir 👋
+AI & Automation Engineer | Building intelligent systems that save time, reduce cost, and scale.
 
-<!--
-**musadiq7860/musadiq7860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ What I Build
 
-Here are some ideas to get you started:
+AI Agents — Autonomous agents with tool use, memory, and real-world integrations (n8n + LLMs)
+Full-Stack AI Apps — FastAPI + React/Next.js + Supabase, deployed on Railway / Vercel
+NLP & Fine-Tuning — DistilBERT, BART, T5 models for classification, summarization, and scoring
+Workflow Automation — n8n pipelines for business automation (WhatsApp bots, email agents, data pipelines)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🚀 Featured Projects
+ProjectStackLiveMultilingual Support AgentFastAPI · React · Groq LLaMA 3.3 · Supabase · n8nDemoWhatsApp AI Receptionistn8n · Gemini · WhatsApp Cloud API · Redis—Resume Screener (88% acc)DistilBERT · HuggingFace SpacesHF SpaceFake News DetectorPython · ML · Streamlit—
+
+🧰 Tech Stack
+Languages     →  Python · TypeScript · JavaScript · Dart
+AI/ML         →  HuggingFace · LangChain · Groq · Gemini · OpenAI
+Automation    →  n8n · Make · Zapier
+Backend       →  FastAPI · Node.js
+Frontend      →  React · Next.js 14
+Databases     →  Supabase · PostgreSQL · Redis · Pinecone
+Deploy        →  Railway · Vercel · HuggingFace Spaces
