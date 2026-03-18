@@ -29,7 +29,7 @@
 | Project | Stack | Description |
 |---|---|---|
 | 🎫 [Multilingual Support Agent](https://github.com/musadiq7860/multilingual-support-agent) | FastAPI · React · Groq · Supabase · n8n | AI customer support triage with ticket routing |
-| 🍽️ [WhatsApp AI Receptionist](https://github.com/musadiq7860/AI_growth_auditor) | n8n · Gemini · WhatsApp API · Redis | Autonomous restaurant receptionist bot |
+| 📊 [AI Growth Auditor](https://github.com/musadiq7860/AI_growth_auditor) | n8n · Gemini · Google Sheets · Gmail | AI-powered business growth audit — scrapes website, generates 3-step strategy |
 | 📄 [Resume Screener](https://github.com/musadiq7860/resume-screener) | DistilBERT · HuggingFace | Fine-tuned on 43 job categories — 88% accuracy |
 | 📰 [Fake News Detector](https://github.com/musadiq7860/fake-news-detector) | Python · ML · Streamlit | NLP classifier for misinformation detection |
 
@@ -49,8 +49,8 @@ Deploy         →  Railway · Vercel · HuggingFace Spaces
 
 ## 📈 Currently Building
 
+- 💼 **Job Copilot** — AI agent that automates job search, application tracking and outreach
 - 🎓 **MS Scholarship Scraper Agent** — n8n AI agent delivering scholarship data via Gmail + Google Sheets
-- 💼 AI automation portfolio targeting **freelance clients (100k+ PKR/month goal)**
 
 ---
 
