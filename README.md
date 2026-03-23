@@ -28,10 +28,12 @@
 
 | Project | Stack | Description |
 |---|---|---|
+| 💼 [Job Copilot](https://github.com/musadiq7860/job-copilot) | FastAPI · Next.js · Groq · Supabase | AI resume tailor — rewrites bullets + cover letter for ATS in 60 seconds |
 | 🎫 [Multilingual Support Agent](https://github.com/musadiq7860/multilingual-support-agent) | FastAPI · React · Groq · Supabase · n8n | AI customer support triage with ticket routing |
 | 📊 [AI Growth Auditor](https://github.com/musadiq7860/AI_growth_auditor) | n8n · Gemini · Google Sheets · Gmail | AI-powered business growth audit — scrapes website, generates 3-step strategy |
+| 💬 [AI Sentiment Analyzer](https://github.com/musadiq7860/ai-sentiment-feedback-analyzer) | n8n · Gemini · Google Sheets · Gmail | Automated feedback sentiment pipeline — Positive/Negative/Neutral |
+| 📦 [Airtable Order Notifier](https://github.com/musadiq7860/airtable-ai-order-email-notifier) | n8n · Gemini · Airtable · Gmail | AI order notification system — auto-generates professional email summaries |
 | 📄 [Resume Screener](https://github.com/musadiq7860/resume-screener) | DistilBERT · HuggingFace | Fine-tuned on 43 job categories — 88% accuracy |
-| 📰 [Fake News Detector](https://github.com/musadiq7860/fake-news-detector) | Python · ML · Streamlit | NLP classifier for misinformation detection |
 
 ---
 
@@ -49,7 +51,7 @@ Deploy         →  Railway · Vercel · HuggingFace Spaces
 
 ## 📈 Currently Building
 
-- 💼 **Job Copilot** — AI agent that automates job search, application tracking and outreach
+- 🏏 **Real-Time Tactical Cricket Match Analyzer** — ball-by-ball data from CricketData.org API → rolling match state → Groq LLaMA 3.3 70B tactical insights streamed via SSE → live scorecard + momentum chart in React
 - 🎓 **MS Scholarship Scraper Agent** — n8n AI agent delivering scholarship data via Gmail + Google Sheets
 
 ---
