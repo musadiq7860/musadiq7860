@@ -30,10 +30,12 @@
 |---|---|---|
 | 💼 [Job Copilot](https://github.com/musadiq7860/job-copilot) | FastAPI · Next.js · Groq · Supabase | AI resume tailor — rewrites bullets + cover letter for ATS in 60 seconds |
 | 🎫 [Multilingual Support Agent](https://github.com/musadiq7860/multilingual-support-agent) | FastAPI · React · Groq · Supabase · n8n | AI customer support triage with ticket routing |
+| 🗂️ [AI Portfolio Generator](https://github.com/musadiq7860/ai-portfolio-generator) | FastAPI · React · Groq · Supabase · WeasyPrint | Turns GitHub + LinkedIn into a live portfolio site + CV PDF in 60 seconds |
 | 📊 [AI Growth Auditor](https://github.com/musadiq7860/AI_growth_auditor) | n8n · Gemini · Google Sheets · Gmail | AI-powered business growth audit — scrapes website, generates 3-step strategy |
 | 💬 [AI Sentiment Analyzer](https://github.com/musadiq7860/ai-sentiment-feedback-analyzer) | n8n · Gemini · Google Sheets · Gmail | Automated feedback sentiment pipeline — Positive/Negative/Neutral |
 | 📦 [Airtable Order Notifier](https://github.com/musadiq7860/airtable-ai-order-email-notifier) | n8n · Gemini · Airtable · Gmail | AI order notification system — auto-generates professional email summaries |
 | 📄 [Resume Screener](https://github.com/musadiq7860/resume-screener) | DistilBERT · HuggingFace | Fine-tuned on 43 job categories — 88% accuracy |
+
 
 ---
 
