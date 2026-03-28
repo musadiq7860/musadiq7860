@@ -11,6 +11,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadmusadiq7860@gmail.com)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/musadiq7860)
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Engineer;Full-Stack+AI+App+Developer;n8n+%7C+FastAPI+%7C+Groq+%7C+Supabase;Building+intelligent+systems+%F0%9F%9A%80" alt="Typing SVG" />
+
 </div>
 
 ---
@@ -33,13 +35,25 @@
 | 🗂️ [AI Portfolio Generator](https://github.com/musadiq7860/ai-portfolio-generator) | FastAPI · React · Groq · Supabase · WeasyPrint | Turns GitHub + LinkedIn into a live portfolio site + CV PDF in 60 seconds |
 | 📊 [AI Growth Auditor](https://github.com/musadiq7860/AI_growth_auditor) | n8n · Gemini · Google Sheets · Gmail | AI-powered business growth audit — scrapes website, generates 3-step strategy |
 | 💬 [AI Sentiment Analyzer](https://github.com/musadiq7860/ai-sentiment-feedback-analyzer) | n8n · Gemini · Google Sheets · Gmail | Automated feedback sentiment pipeline — Positive/Negative/Neutral |
-| 📦 [Airtable Order Notifier](https://github.com/musadiq7860/airtable-ai-order-email-notifier) | n8n · Gemini · Airtable · Gmail | AI order notification system — auto-generates professional email summaries |
 | 📄 [Resume Screener](https://github.com/musadiq7860/resume-screener) | DistilBERT · HuggingFace | Fine-tuned on 43 job categories — 88% accuracy |
-
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,typescript,javascript,supabase,postgres,redis,docker,git,github,vscode,vercel,linux&perline=8" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=huggingface,tensorflow,pytorch,opencv,figma,postman,nodejs,tailwind&perline=8" />
+
+</div>
+
+---
+
+## 🧠 Tech Stack
 ```python
 AI / ML        →  HuggingFace · LangChain · Groq · Gemini · OpenAI
 Automation     →  n8n · Make · Zapier
@@ -65,6 +79,8 @@ Deploy         →  Railway · Vercel · HuggingFace Spaces
 ![Musaddaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musadiq7860&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musadiq7860&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=musadiq7860&theme=tokyonight&hide_border=true)
 
 </div>
 
