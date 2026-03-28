@@ -43,25 +43,13 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,typescript,javascript,supabase,postgres,redis,docker,git,github,vscode,vercel,linux&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,typescript,javascript&perline=6" />
 
-<br/>
+<img src="https://skillicons.dev/icons?i=supabase,postgres,redis,docker,git,github&perline=6" />
 
-<img src="https://skillicons.dev/icons?i=huggingface,tensorflow,pytorch,opencv,figma,postman,nodejs,tailwind&perline=8" />
+<img src="https://skillicons.dev/icons?i=vercel,vscode,postman,figma,linux,nodejs&perline=6" />
 
 </div>
-
----
-
-## 🧠 Tech Stack
-```python
-AI / ML        →  HuggingFace · LangChain · Groq · Gemini · OpenAI
-Automation     →  n8n · Make · Zapier
-Backend        →  FastAPI · Node.js
-Frontend       →  React · Next.js 14 · TypeScript
-Databases      →  Supabase · PostgreSQL · Redis · Pinecone
-Deploy         →  Railway · Vercel · HuggingFace Spaces
-```
 
 ---
 
@@ -79,8 +67,6 @@ Deploy         →  Railway · Vercel · HuggingFace Spaces
 ![Musaddaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musadiq7860&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musadiq7860&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=musadiq7860&theme=tokyonight&hide_border=true)
 
 </div>
 
