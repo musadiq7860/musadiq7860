@@ -141,9 +141,11 @@
 
 <div align="center">
 
-![Musaddaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musadiq7860&show_icons=true&theme=tokyonight&hide_border=true)
+![Musaddaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musadiq7860&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musadiq7860&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musadiq7860&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=musadiq7860&theme=tokyonight&hide_border=true)
 
 </div>
 
