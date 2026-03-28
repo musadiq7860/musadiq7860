@@ -98,10 +98,30 @@
       <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br/>PyTorch
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br/>PyTorch
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br/>TensorFlow
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" width="90"/><br/>HuggingFace
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" width="90"/><br/>n8n
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" width="90"/><br/>Groq
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" width="90"/><br/>Gemini
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logoColor=white" width="90"/><br/>LLaMA
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" width="90"/><br/>Railway
     </td>
   </tr>
 </table>
@@ -121,9 +141,9 @@
 
 <div align="center">
 
-![Musaddaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musadiq7860&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=musadiq7860&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musadiq7860&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musadiq7860&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
