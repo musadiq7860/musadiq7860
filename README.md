@@ -43,11 +43,68 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,typescript,javascript&perline=6" />
-
-<img src="https://skillicons.dev/icons?i=supabase,postgres,redis,docker,git,github&perline=6" />
-
-<img src="https://skillicons.dev/icons?i=vercel,vscode,postman,figma,linux,nodejs&perline=6" />
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/>FastAPI
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>Next.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48"/><br/>TypeScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48"/><br/>JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=supabase" width="48"/><br/>Supabase
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/>PostgreSQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=redis" width="48"/><br/>Redis
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>Docker
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/>Vercel
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VS Code
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>Postman
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br/>PyTorch
+    </td>
+  </tr>
+</table>
 
 </div>
 
