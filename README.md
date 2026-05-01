@@ -1,6 +1,6 @@
 <div align="center">
 
-#            Muhammad Musaddaq Qaysir .   
+#            Muhammad Musaddaq Qaysir  
 
 **AI & Automation Engineer**
 
@@ -130,10 +130,6 @@
 
 ---
 
-## 📈 Currently Building
-
-- 🏏 **Real-Time Tactical Cricket Match Analyzer** — ball-by-ball data from CricketData.org API → rolling match state → Groq LLaMA 3.3 70B tactical insights streamed via SSE → live scorecard + momentum chart in React
-- 🎓 **MS Scholarship Scraper Agent** — n8n AI agent delivering scholarship data via Gmail + Google Sheets
 
 ---
 
