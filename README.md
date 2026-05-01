@@ -41,7 +41,7 @@
 
 ## 🧰 Languages & Tools
 
-<div align="center"> langchain
+<div align="center"> 
 
 <table>
   <tr>
