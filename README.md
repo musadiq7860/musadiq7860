@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0077B6&height=200&section=header&text=Muhammad%20Musaddaq%20Qaysir&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Automation%20Engineer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Musaddaq%20Qaysir&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Automation%20Engineer&descAlignY=55&descSize=18" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://musadiq-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-musaddaq-qaysir/)
@@ -133,16 +133,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=musadiq7860&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -193,6 +183,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=musadiq7860&color=0e75b6&style=flat)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 
 </div>
