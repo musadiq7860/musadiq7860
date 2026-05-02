@@ -1,17 +1,13 @@
 <div align="center">
 
-#            Muhammad Musaddaq Qaysir  
-
-**AI & Automation Engineer**
-
-*Building intelligent systems that save time, reduce cost, and scale*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0077B6&height=200&section=header&text=Muhammad%20Musaddaq%20Qaysir&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Automation%20Engineer&descAlignY=55&descSize=18" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://musadiq-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-musaddaq-qaysir/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadmusadiq7860@gmail.com)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/musadiq7860)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Engineer;Full-Stack+AI+App+Developer;n8n+%7C+FastAPI+%7C+Groq+%7C+Supabase;Building+intelligent+systems+%F0%9F%9A%80" alt="Typing SVG"      />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Engineer;Full-Stack+AI+App+Developer;n8n+%7C+FastAPI+%7C+Groq+%7C+Supabase;Building+intelligent+systems+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -41,7 +37,7 @@
 
 ## 🧰 Languages & Tools
 
-<div align="center"> 
+<div align="center">
 
 <table>
   <tr>
@@ -130,15 +126,62 @@
 
 ---
 
+## 📈 Currently Building
+
+- 🏏 **Real-Time Tactical Cricket Match Analyzer** — ball-by-ball data from CricketData.org API → rolling match state → Groq LLaMA 3.3 70B tactical insights streamed via SSE → live scorecard + momentum chart in React
+- 🎓 **MS Scholarship Scraper Agent** — n8n AI agent delivering scholarship data via Gmail + Google Sheets
 
 ---
 
+## 🏆 GitHub Trophies
 
+<div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=musadiq7860&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 
+</div>
 
+---
 
+## 📊 GitHub Stats
 
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=musadiq7860&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=musadiq7860&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musadiq7860/musadiq7860/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/musadiq7860/musadiq7860/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/musadiq7860/musadiq7860/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -149,5 +192,7 @@
 *"Artificial minds evolve; human minds transcend."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=musadiq7860&color=0e75b6&style=flat)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=120&section=footer" />
 
 </div>
