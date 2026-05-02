@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Musaddaq%20Qaysir&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Automation%20Engineer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0077B6&height=200&section=header&text=Muhammad%20Musaddaq%20Qaysir&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Automation%20Engineer&descAlignY=55&descSize=18" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://musadiq-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-musaddaq-qaysir/)
@@ -31,7 +31,7 @@
 | 🗂️ [AI Portfolio Generator](https://github.com/musadiq7860/ai-portfolio-generator) | FastAPI · React · Groq · Supabase · WeasyPrint | Turns GitHub + LinkedIn into a live portfolio site + CV PDF in 60 seconds |
 | 📊 [AI Growth Auditor](https://github.com/musadiq7860/AI_growth_auditor) | n8n · Gemini · Google Sheets · Gmail | AI-powered business growth audit — scrapes website, generates 3-step strategy |
 | 💬 [AI Sentiment Analyzer](https://github.com/musadiq7860/ai-sentiment-feedback-analyzer) | n8n · Gemini · Google Sheets · Gmail | Automated feedback sentiment pipeline — Positive/Negative/Neutral |
-| 📄 [Resume Screener](https://github.com/musadiq7860/resume-screener) | DistilBERT · HuggingFace | Fine-tuned on 43 job categories — 88% accuracy |
+| 🌾 [FarmGuardian](https://github.com/musadiq7860/FARMGUARDIAN) | React Native · Flask · EfficientNet · Groq · Supabase | AI agricultural assistant for Pakistani farmers — crop disease detection in Urdu |
 
 ---
 
@@ -183,6 +183,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=musadiq7860&color=0e75b6&style=flat)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=120&section=footer" />
 
 </div>
