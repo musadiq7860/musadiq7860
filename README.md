@@ -18,7 +18,7 @@
 - 🤖 **AI Agents** — Autonomous agents with tool use, memory & real-world integrations
 - 🌐 **Full-Stack AI Apps** — FastAPI + React/Next.js + Supabase, deployed on Railway & Vercel
 - 🧠 **NLP & Fine-Tuning** — DistilBERT, BART, T5 for classification, summarization & scoring
-- ⚡ **Workflow Automation** — n8n pipelines: WhatsApp bots, email agents, data pipelines
+- ⚡ **Workflow Automation** — n8n pipelines: WhatsApp bots, email agents, data pipelines             
 
 ---
 
