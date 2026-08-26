@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0077B6&height=200&section=header&text=Muhammad%20Musaddaq%20Qaysir&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Automation%20Engineer&descAlignY=55&descSize=18" />
 
@@ -18,7 +18,8 @@
 - 🤖 **AI Agents** — Autonomous agents with tool use, memory & real-world integrations
 - 🌐 **Full-Stack AI Apps** — FastAPI + React/Next.js + Supabase, deployed on Railway & Vercel
 - 🧠 **NLP & Fine-Tuning** — DistilBERT, BART, T5 for classification, summarization & scoring
-- ⚡ **Workflow Automation** — n8n pipelines: WhatsApp bots, email agents, data pipelines             
+- ⚡ **Workflow Automation** — n8n pipelines: WhatsApp bots, email agents, data pipelines
+- 🗣️ **Voice & RAG Systems** — real-time voice agents, hybrid SQL + document Q&A chatbots
 
 ---
 
@@ -29,9 +30,15 @@
 | 💼 [Job Copilot](https://github.com/musadiq7860/job-copilot) | FastAPI · Next.js · Groq · Supabase | AI resume tailor — rewrites bullets + cover letter for ATS in 60 seconds |
 | 🎫 [Multilingual Support Agent](https://github.com/musadiq7860/multilingual-support-agent) | FastAPI · React · Groq · Supabase · n8n | AI customer support triage with ticket routing |
 | 🗂️ [AI Portfolio Generator](https://github.com/musadiq7860/ai-portfolio-generator) | FastAPI · React · Groq · Supabase · WeasyPrint | Turns GitHub + LinkedIn into a live portfolio site + CV PDF in 60 seconds |
+| 🧾 [Invoice Extractor](https://invoice-extractor.up.railway.app) | Flask · LangChain · Groq · Supabase · Railway | Multi-tenant SaaS that OCRs invoices/receipts and extracts vendor, date, amount & line items into a searchable dashboard |
+| ⚖️ [Lex.AI](https://github.com/musadiq7860/legal-ai-simplifier) | FastAPI · Next.js · Groq LLaMA 3.3 · DistilBERT · Supabase | Legal document simplifier — map-reduce chunking turns dense legal docs into plain English |
+| 💬 [Business Docs RAG Chatbot](https://web-production-10c1e.up.railway.app) | LangChain · Groq · ChromaDB | Upload any business document and get an instant, per-session Q&A chatbot |
+| 🗄️ [Hybrid SQL + RAG Agent](https://github.com/musadiq7860/sql-rag-agent) | PostgreSQL · FAISS · Groq LLaMA 3.3 · sentence-transformers | One chatbot that answers from company documents (RAG) *and* live sales-DB queries (text-to-SQL) |
+| 🎙️ [AI Voice Receptionist](https://github.com/flowcraft7/ai-voice-receptionist) | Next.js · FastAPI · Supabase · Groq Whisper · Edge-TTS | Embeddable, multilingual (English/Urdu/Roman Urdu) voice agent widget with real-time appointment booking |
+| 🌾 [FarmGuardian](https://github.com/musadiq7860/FARMGUARDIAN) | React Native · Flask · EfficientNet · Groq · Supabase | AI agricultural assistant for Pakistani farmers — crop disease detection in Urdu |
+| ✍️ [TextForge AI](https://github.com/musadiq7860) | Next.js · PyTorch · BART · T5 · DistilBERT | Full-stack NLP suite — 4 fine-tuned models for summarization, paraphrasing, essay scoring & tone detection |
 | 📊 [AI Growth Auditor](https://github.com/musadiq7860/AI_growth_auditor) | n8n · Gemini · Google Sheets · Gmail | AI-powered business growth audit — scrapes website, generates 3-step strategy |
 | 💬 [AI Sentiment Analyzer](https://github.com/musadiq7860/ai-sentiment-feedback-analyzer) | n8n · Gemini · Google Sheets · Gmail | Automated feedback sentiment pipeline — Positive/Negative/Neutral |
-| 🌾 [FarmGuardian](https://github.com/musadiq7860/FARMGUARDIAN) | React Native · Flask · EfficientNet · Groq · Supabase | AI agricultural assistant for Pakistani farmers — crop disease detection in Urdu |
 
 ---
 
@@ -129,7 +136,6 @@
 ## 📈 Currently Building
 
 - 🏏 **Real-Time Tactical Cricket Match Analyzer** — ball-by-ball data from CricketData.org API → rolling match state → Groq LLaMA 3.3 70B tactical insights streamed via SSE → live scorecard + momentum chart in React
-- 🎓 **MS Scholarship Scraper Agent** — n8n AI agent delivering scholarship data via Gmail + Google Sheets
 
 ---
 
