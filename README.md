@@ -1,8 +1,8 @@
- <div align="center">
+ <div align="center">     
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0077B6&height=200&section=header&text=Muhammad%20Musaddaq%20Qaysir&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Automation%20Engineer&descAlignY=55&descSize=18" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://musadiq-portfolio.vercel.app/)
+[![ Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://musadiq-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-musaddaq-qaysir/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadmusadiq7860@gmail.com)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/musadiq7860)
