@@ -57,7 +57,7 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100"                    >
       <img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>Next.js
     </td>
     <td align="center" width="100">
