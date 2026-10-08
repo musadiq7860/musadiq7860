@@ -1,12 +1,12 @@
-   <diiiiv align="center">     
+   < align="center">     
 
-<img  hhhh src="https://capsule-render.vercel.app/api?type=waving&colo    r=0:00B4D8,100:0077B6&height=200&section=header&text=Muhammad%20Musaddaq%20Qaysir&fontSize=40&fontCol or=fff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Automation%20Engineer&descAlignY=55&descSize=18" />
+<img   src="https://capsule-render.vercel.app/api?type=waving&colo    r=0:00B4D8,100:0077B6&height=200&section=header&text=Muhammad%20Musaddaq%20Qaysir&fontSize=40&fontCol or=fff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Automation%20Engineer&descAlignY=55&descSize=18" />
 
 [![ Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://musadiq-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-musaddaq-qaysir/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadmusadiq7860@gmail.com)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/musadiq7860)
-     huhuuhu
+     
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Engineer;Full-Stack+AI+App+Developer;n8n+%7C+FastAPI+%7C+Groq+%7C+Supabase;Building+intelligent+systems+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
