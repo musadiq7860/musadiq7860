@@ -1,109 +1,190 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0A0F1F,100:0077B6&height=220&section=header&text=Muhammad%20Musaddaq%20Qaysir&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20and%20Automation%20Engineer&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,100:064E3B&height=180&section=header&text=Muhammad%20Musaddaq%20Qaysir&fontSize=38&fontColor=00FF9C&animation=fadeIn&fontAlignY=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=AI+%26+Automation+Engineer;Full-Stack+AI+App+Developer;n8n+%7C+FastAPI+%7C+Groq+%7C+Supabase;Building+intelligent+systems+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF9C&center=true&vCenter=true&width=650&lines=%24+whoami+%3A+AI+%26+Automation+Engineer;%24+stack+%3A+n8n+%7C+FastAPI+%7C+Groq+%7C+Supabase;%24+status+%3A+open+to+freelance+work" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0F1F?style=flat-square&logo=vercel&logoColor=white)](https://musadiq-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-musaddaq-qaysir/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadmusadiq7860@gmail.com)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/musadiq7860)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9C)](https://musadiq-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://www.linkedin.com/in/muhammad-musaddaq-qaysir/)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:muhammadmusadiq7860@gmail.com)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=00FF9C)](https://huggingface.co/musadiq7860)
 
-![Status](https://img.shields.io/badge/Status-Open%20to%20Freelance%20Work-00B4D8?style=flat-square&labelColor=0A0F1F)
+![Status](https://img.shields.io/badge/status-open%20to%20freelance-00FF9C?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
 ---
 
-## 👋 About
+## ~/about
 
-> AI & automation engineer building agents, full-stack AI apps and workflow pipelines — from fine-tuned NLP models to a voice receptionist that books appointments in English, Urdu and Roman Urdu.
+```bash
+$ whoami
+muhammad-musaddaq-qaysir
 
-| Area | What I build |
-|---|---|
-| 🤖 **AI Agents** | Autonomous agents with tool use, memory & real-world integrations |
-| 🌐 **Full-Stack AI Apps** | FastAPI + React/Next.js + Supabase, deployed on Railway & Vercel |
-| 🧠 **NLP & Fine-Tuning** | DistilBERT, BART, T5 for classification, summarization & scoring |
-| ⚡ **Workflow Automation** | n8n pipelines: WhatsApp bots, email agents, data pipelines |
-| 🗣️ **Voice & RAG Systems** | Real-time voice agents, hybrid SQL + document Q&A chatbots |
+$ cat about.txt
+AI & automation engineer. I build agents, full-stack AI apps and
+workflow pipelines — from fine-tuned NLP models to a voice receptionist
+that books appointments in English, Urdu and Roman Urdu.
+```
 
----
+## ~/services
 
-## 🏆 Featured Projects
-
-### 🤖 AI Agents & RAG
-
-| Project | Stack | What it does |
-|---|---|---|
-| 🗄️ [Hybrid SQL + RAG Agent](https://github.com/musadiq7860/sql-rag-agent) | `PostgreSQL` `FAISS` `Groq LLaMA 3.3` `sentence-transformers` | One chatbot that answers from company documents (RAG) *and* live sales-DB queries (text-to-SQL) |
-| 💬 [Business Docs RAG Chatbot](https://web-production-10c1e.up.railway.app) | `LangChain` `Groq` `ChromaDB` | Upload any business document and get an instant, per-session Q&A chatbot |
-| 🎙️ [AI Voice Receptionist](https://github.com/flowcraft7/ai-voice-receptionist) | `Next.js` `FastAPI` `Supabase` `Groq Whisper` `Edge-TTS` | Embeddable, multilingual (English/Urdu/Roman Urdu) voice agent widget with real-time appointment booking |
-| 🎫 [Multilingual Support Agent](https://github.com/musadiq7860/multilingual-support-agent) | `FastAPI` `React` `Groq` `Supabase` `n8n` | AI customer support triage with ticket routing |
-
-### 🌐 Full-Stack AI Apps
-
-| Project | Stack | What it does |
-|---|---|---|
-| 💼 [Job Copilot](https://github.com/musadiq7860/job-copilot) | `FastAPI` `Next.js` `Groq` `Supabase` | AI resume tailor — rewrites bullets + cover letter for ATS in 60 seconds |
-| 🗂️ [AI Portfolio Generator](https://github.com/musadiq7860/ai-portfolio-generator) | `FastAPI` `React` `Groq` `Supabase` `WeasyPrint` | Turns GitHub + LinkedIn into a live portfolio site + CV PDF in 60 seconds |
-| 🧾 [Invoice Extractor](https://invoice-extractor.up.railway.app) | `Flask` `LangChain` `Groq` `Supabase` `Railway` | Multi-tenant SaaS that OCRs invoices/receipts and extracts vendor, date, amount & line items into a searchable dashboard |
-| ⚖️ [Lex.AI](https://github.com/musadiq7860/legal-ai-simplifier) | `FastAPI` `Next.js` `Groq LLaMA 3.3` `DistilBERT` `Supabase` | Legal document simplifier — map-reduce chunking turns dense legal docs into plain English |
-
-### 🧠 Applied ML & NLP
-
-| Project | Stack | What it does |
-|---|---|---|
-| 🌾 [FarmGuardian](https://github.com/musadiq7860/FARMGUARDIAN) | `React Native` `Flask` `EfficientNet` `Groq` `Supabase` | AI agricultural assistant for Pakistani farmers — crop disease detection in Urdu |
-| ✍️ [TextForge AI](https://github.com/musadiq7860) | `Next.js` `PyTorch` `BART` `T5` `DistilBERT` | Full-stack NLP suite — 4 fine-tuned models for summarization, paraphrasing, essay scoring & tone detection |
-
-### ⚡ n8n Automation
-
-| Project | Stack | What it does |
-|---|---|---|
-| 📊 [AI Growth Auditor](https://github.com/musadiq7860/AI_growth_auditor) | `n8n` `Gemini` `Google Sheets` `Gmail` | AI-powered business growth audit — scrapes website, generates 3-step strategy |
-| 💬 [AI Sentiment Analyzer](https://github.com/musadiq7860/ai-sentiment-feedback-analyzer) | `n8n` `Gemini` `Google Sheets` `Gmail` | Automated feedback sentiment pipeline — Positive/Negative/Neutral |
-
----
-
-## 🧰 Tech Stack
-
-| Category | Tools |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=dark" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" /> |
-| **Backend & Data** | <img src="https://skillicons.dev/icons?i=fastapi,nodejs,supabase,postgres,redis&theme=dark" /> |
-| **ML Frameworks** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,vscode,postman&theme=dark" /> |
-| **AI & Automation** | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) |
-
----
-
-## 🚧 Currently Building
-
-**🏏 Real-Time Tactical Cricket Match Analyzer** — ball-by-ball data turned into live tactical insights.
-
-```mermaid
-flowchart LR
-    A[CricketData.org API] --> B[Rolling match state]
-    B --> C[Groq LLaMA 3.3 70B]
-    C -->|SSE stream| D[React dashboard]
-    D --> E[Live scorecard + momentum chart]
-
-    classDef node fill:#0077B6,stroke:#00B4D8,color:#ffffff;
-    class A,B,C,D,E node;
+```bash
+$ ls services/
+├── ai-agents/            autonomous agents · tool use · memory · integrations
+├── full-stack-ai-apps/   FastAPI + React/Next.js + Supabase on Railway & Vercel
+├── nlp-fine-tuning/      DistilBERT · BART · T5 — classify, summarize, score
+├── workflow-automation/  n8n — WhatsApp bots, email agents, data pipelines
+└── voice-and-rag/        real-time voice agents · hybrid SQL + doc Q&A
 ```
 
 ---
 
-## 📊 GitHub Stats
+## ~/projects
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <sub>🤖 AI AGENT</sub><br/>
+      <b><a href="https://github.com/musadiq7860/sql-rag-agent">🗄️ Hybrid SQL + RAG Agent</a></b><br/>
+      <sub>One chatbot that answers from company documents (RAG) <i>and</i> live sales-DB queries (text-to-SQL)</sub><br/><br/>
+      <code>PostgreSQL</code> <code>FAISS</code> <code>Groq LLaMA 3.3</code> <code>sentence-transformers</code>
+    </td>
+    <td valign="top" width="50%">
+      <sub>🤖 AI AGENT · RAG</sub><br/>
+      <b><a href="https://web-production-10c1e.up.railway.app">💬 Business Docs RAG Chatbot</a></b><br/>
+      <sub>Upload any business document and get an instant, per-session Q&amp;A chatbot</sub><br/><br/>
+      <code>LangChain</code> <code>Groq</code> <code>ChromaDB</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <sub>🗣️ VOICE AGENT</sub><br/>
+      <b><a href="https://github.com/flowcraft7/ai-voice-receptionist">🎙️ AI Voice Receptionist</a></b><br/>
+      <sub>Embeddable, multilingual (English/Urdu/Roman Urdu) voice agent widget with real-time appointment booking</sub><br/><br/>
+      <code>Next.js</code> <code>FastAPI</code> <code>Supabase</code> <code>Groq Whisper</code> <code>Edge-TTS</code>
+    </td>
+    <td valign="top" width="50%">
+      <sub>🤖 AI AGENT</sub><br/>
+      <b><a href="https://github.com/musadiq7860/multilingual-support-agent">🎫 Multilingual Support Agent</a></b><br/>
+      <sub>AI customer support triage with ticket routing</sub><br/><br/>
+      <code>FastAPI</code> <code>React</code> <code>Groq</code> <code>Supabase</code> <code>n8n</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <sub>🌐 FULL-STACK</sub><br/>
+      <b><a href="https://github.com/musadiq7860/job-copilot">💼 Job Copilot</a></b><br/>
+      <sub>AI resume tailor — rewrites bullets + cover letter for ATS in 60 seconds</sub><br/><br/>
+      <code>FastAPI</code> <code>Next.js</code> <code>Groq</code> <code>Supabase</code>
+    </td>
+    <td valign="top" width="50%">
+      <sub>🌐 FULL-STACK</sub><br/>
+      <b><a href="https://github.com/musadiq7860/ai-portfolio-generator">🗂️ AI Portfolio Generator</a></b><br/>
+      <sub>Turns GitHub + LinkedIn into a live portfolio site + CV PDF in 60 seconds</sub><br/><br/>
+      <code>FastAPI</code> <code>React</code> <code>Groq</code> <code>Supabase</code> <code>WeasyPrint</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <sub>🌐 FULL-STACK · SAAS</sub><br/>
+      <b><a href="https://invoice-extractor.up.railway.app">🧾 Invoice Extractor</a></b><br/>
+      <sub>Multi-tenant SaaS that OCRs invoices/receipts and extracts vendor, date, amount &amp; line items into a searchable dashboard</sub><br/><br/>
+      <code>Flask</code> <code>LangChain</code> <code>Groq</code> <code>Supabase</code> <code>Railway</code>
+    </td>
+    <td valign="top" width="50%">
+      <sub>🌐 FULL-STACK</sub><br/>
+      <b><a href="https://github.com/musadiq7860/legal-ai-simplifier">⚖️ Lex.AI</a></b><br/>
+      <sub>Legal document simplifier — map-reduce chunking turns dense legal docs into plain English</sub><br/><br/>
+      <code>FastAPI</code> <code>Next.js</code> <code>Groq LLaMA 3.3</code> <code>DistilBERT</code> <code>Supabase</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <sub>🧠 APPLIED ML</sub><br/>
+      <b><a href="https://github.com/musadiq7860/FARMGUARDIAN">🌾 FarmGuardian</a></b><br/>
+      <sub>AI agricultural assistant for Pakistani farmers — crop disease detection in Urdu</sub><br/><br/>
+      <code>React Native</code> <code>Flask</code> <code>EfficientNet</code> <code>Groq</code> <code>Supabase</code>
+    </td>
+    <td valign="top" width="50%">
+      <sub>🧠 NLP</sub><br/>
+      <b><a href="https://github.com/musadiq7860">✍️ TextForge AI</a></b><br/>
+      <sub>Full-stack NLP suite — 4 fine-tuned models for summarization, paraphrasing, essay scoring &amp; tone detection</sub><br/><br/>
+      <code>Next.js</code> <code>PyTorch</code> <code>BART</code> <code>T5</code> <code>DistilBERT</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <sub>⚡ N8N AUTOMATION</sub><br/>
+      <b><a href="https://github.com/musadiq7860/AI_growth_auditor">📊 AI Growth Auditor</a></b><br/>
+      <sub>AI-powered business growth audit — scrapes website, generates 3-step strategy</sub><br/><br/>
+      <code>n8n</code> <code>Gemini</code> <code>Google Sheets</code> <code>Gmail</code>
+    </td>
+    <td valign="top" width="50%">
+      <sub>⚡ N8N AUTOMATION</sub><br/>
+      <b><a href="https://github.com/musadiq7860/ai-sentiment-feedback-analyzer">💬 AI Sentiment Analyzer</a></b><br/>
+      <sub>Automated feedback sentiment pipeline — Positive/Negative/Neutral</sub><br/><br/>
+      <code>n8n</code> <code>Gemini</code> <code>Google Sheets</code> <code>Gmail</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ~/stack
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=musadiq7860&theme=tokyonight&hide_border=true)
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,supabase,postgres,redis,docker,git,github,vercel,vscode,postman,pytorch,tensorflow&perline=9&theme=dark" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=musadiq7860&theme=tokyo-night&hide_border=true&area=true" />
+<br/><br/>
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=00FF9C)
+![n8n](https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=00FF9C)
+![Groq](https://img.shields.io/badge/Groq-0D1117?style=flat-square&logoColor=00FF9C)
+![Gemini](https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=google&logoColor=00FF9C)
+![LLaMA](https://img.shields.io/badge/LLaMA-0D1117?style=flat-square&logoColor=00FF9C)
+![Railway](https://img.shields.io/badge/Railway-0D1117?style=flat-square&logo=railway&logoColor=00FF9C)
+
+</div>
+
+---
+
+## ~/building
+
+```bash
+$ tail -f cricket-analyzer.log
+[ingest]  CricketData.org API    → ball-by-ball feed
+[state]   rolling match state    → updated per delivery
+[llm]     Groq LLaMA 3.3 70B     → tactical insights
+[stream]  SSE                    → React dashboard
+[ui]      live scorecard + momentum chart ▮
+```
+
+> 🏏 **Real-Time Tactical Cricket Match Analyzer** — currently in progress.
+
+---
+
+## ~/stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=musadiq7860&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musadiq7860&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=musadiq7860&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=musadiq7860&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area_color=00FF9C&area=true&hide_border=true" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musadiq7860/musadiq7860/output/github-snake-dark.svg" />
@@ -115,22 +196,30 @@ flowchart LR
 
 ---
 
-## 🤝 Let's Work Together
+## ~/contact
 
-Need an AI agent, an automation pipeline, or a full-stack AI app? Reach out:
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadmusadiq7860@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-musaddaq-qaysir/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0F1F?style=for-the-badge&logo=vercel&logoColor=white)](https://musadiq-portfolio.vercel.app/)
+```bash
+$ contact --list
+email       muhammadmusadiq7860@gmail.com
+linkedin    linkedin.com/in/muhammad-musaddaq-qaysir
+portfolio   musadiq-portfolio.vercel.app
+huggingface huggingface.co/musadiq7860
+github      github.com/musadiq7860
+```
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email_me-00FF9C?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:muhammadmusadiq7860@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://www.linkedin.com/in/muhammad-musaddaq-qaysir/)
+
 <br/>
 
-*"Artificial minds evolve; human minds transcend."*
+```bash
+$ echo "Artificial minds evolve; human minds transcend."
+```
 
-![Profile Views](https://komarev.com/ghpvc/?username=musadiq7860&color=0e75b6&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=musadiq7860&color=00FF9C&labelColor=0D1117&style=flat-square)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:0A0F1F&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:064E3B,100:0D1117&height=100&section=footer" />
 
 </div>
